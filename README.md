@@ -8,4 +8,4 @@ Rename `.env.test` to `.env`, and paste your API key there (no quotes).
 
 The original tutorial didn't provide routes for the Express app, so I added the routes. Also, the `Request` library has now been depreciated, so I have replaced it with `Got`.
 
-I also have fixed typos from the original code.
+I also have fixed typos from the original code, and added `dotenv` support.
